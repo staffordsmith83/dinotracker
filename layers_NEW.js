@@ -26,7 +26,7 @@ var source2 = new ol.source.TileWMS({
 						'dinotracker:Broome_SS'},
 				serverType: 'geoserver',
 								});
-      });
+
 var new ol.layer.Tile({source: source2});
 
 
