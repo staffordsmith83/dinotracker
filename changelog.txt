@@ -1,0 +1,14 @@
+DEVELOPMENT NOTES
+
+Change title from Houseboats of Australia
+
+Change Legend Names
+Change Legends
+Change initial zoom extent
+
+
+Change TEMP Surface geology lenegd png make smaller
+
+
+Change Surface Geology Style to only show Broome Sandstone extent
+Change Surface geology legend png link

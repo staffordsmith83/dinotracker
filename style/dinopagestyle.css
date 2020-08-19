@@ -1,0 +1,46 @@
+/* CSS Document */
+/* format table style to be the same as original design */
+table { background-color: #000000; 
+		border-spacing: 30px 5px;}	/* this line separates the buttons in the top row. May want to overide for lower part of doc */
+
+td { 
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: center;
+    vertical-align: top;
+	border: 0;
+    }
+
+th {
+    border-width: 1px;
+    border-radius: 10px;
+    border-color:black;  
+    cursor:pointer;
+    font-size: 15px;  
+	font-weight: normal;
+    border: 0;
+    padding: 1px 0;
+    background-color: #DC9108; 
+	color: white;
+	text-align: center;		}
+
+div {
+      margin-bottom: 5px;
+    }
+
+
+
+/*format general document colours */
+body {background-color: black;}
+h2 { color: white;}
+a {
+  color: white;
+}
+
+/* the following tags have been cut from the html and put in this css file instead*/
+html, body, #map {
+margin: 0;
+height: 98%;
+width: 98%;
+font-family: 'Helvetica', 'Arial', sans-serif;
+}

@@ -1,0 +1,12 @@
+/* CSS Document */
+/* format table style to be the same as original design */
+table,td {
+border: 2px #2b2b#2b solid;
+color: #000000;}
+th { background-color: #DC9108; color: white}
+table { background-color: #F7E2C1; }
+
+
+/*format general document colours */
+body {background-color: black;}
+h2 { color: white;}
